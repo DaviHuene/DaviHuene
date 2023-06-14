@@ -18,7 +18,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: daviangelohuene2021@gmail.com ">
+    <a href = "mailto: daviangelohuene2021@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/davi-ângelo-martins-paes-huene-b41031208/">

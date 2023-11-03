@@ -27,4 +27,4 @@
    
 </div>
   
-![Snake animation](https://github.com/DaviHuene/DaviHuene/blob/output/github-contribution-grid-snake.svg)
+

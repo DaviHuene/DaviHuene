@@ -35,5 +35,5 @@
 <br>
 <br>
 <div>
-   <img align="left" height="230" alt="coding-time" src="pixels-neon.gif">
+   <img align="left" height="280" alt="coding-time" src="pixels-neon.gif">
 </div>

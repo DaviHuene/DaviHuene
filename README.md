@@ -27,6 +27,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-4B0082?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-4B0082?style=for-the-badge&logo=microsoft%20azure&logoColor=white)

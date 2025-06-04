@@ -1,7 +1,8 @@
-
+<table>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&weight=500&size=31&duration=1000&pause=1000&color=8E00FF&width=435&lines=Hello+Everyone+%F0%9F%91%8B;Eu+sou+Davi.;%C3%89+um+prazer+te-lo(a)+por+aqui!" alt="Typing SVG" />
-  <table>
+
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&weight=500&size=31&duration=1000&pause=1000&color=8E00FF&width=435&lines=Hello+Everyone+%F0%9F%91%8B;Eu+sou+Davi.;%C3%89+um+prazer+te-lo(a)+por+aqui!" alt="Typing SVG" /> 
+ 
 </h1>
 
   <tr>

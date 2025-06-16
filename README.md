@@ -6,7 +6,7 @@
 
 <br><br>
 
-## 🛠️ Skills & Techs que tô mandando ver
+## 🛠️ Skills & Techs 
 
 ### 🧠 Linguagens & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white)

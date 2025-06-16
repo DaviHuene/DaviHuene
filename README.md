@@ -1,6 +1,34 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&weight=500&size=31&duration=1000&pause=1000&color=8E00FF&width=435&lines=Hello+Everyone+%F0%9F%91%8B;Eu+sou+Davi;%C3%89+um+prazer+te-lo(a)+por+aqui!" alt="Typing SVG" />
 </h1>
+
+
+<br><br>
+
+## 🛠️ Skills & Techs que tô mandando ver
+
+### 🧠 Linguagens & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4B0082?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white)
+
+### 🧰 Ferramentas & Tecnologias
+![MongoDB](https://img.shields.io/badge/MongoDB-4B0082?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-4B0082?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-4B0082?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4B0082?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -15,11 +43,11 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Bora trocar uma ideia?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-ângelo-martins-paes-huene/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Daviangelohuene2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -28,42 +56,15 @@
 
 ---
 
-## 🚀 Minhas Habilidades
-
-### 🧠 Linguagens & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-4B0082?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white)
-
-
-### 🛠️ Ferramentas e Tecnologias
-![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4B0082?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-4B0082?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
----
-
-## 🧠 Sobre Mim
+## 🚀 Sobre mim
 
 ```txt
-🧑‍💻 Desenvolvedor apaixonado por transformar ideias em experiências.
-🎯 Crio soluções funcionais com foco em beleza, clareza e performance.
-🎮 Gosto de desafios, jogos retro, IA e automações em Python.
-💜 Acredito que código é poesia com impacto.
+🧑‍💻 Desenvolvedor em construção (mas com muita vontade de aprender!).
+🎯 Viciado em melhorar, aprender, errar (faz parte 😅) e tentar de novo.
+🧩 Gosto de unir tecnologia com criatividade – sempre com um toque de humor!
 ```
-
 ---
 
 <p align="center">
   <img src="pixels-neon.gif" height="280" alt="Coding Animation">
 </p>
-</table>

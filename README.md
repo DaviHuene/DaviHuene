@@ -10,7 +10,7 @@
 
 ### 🧠 Linguagens & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +24,7 @@
 ![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-4B0082?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-4B0082?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4B0082?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-4B0082?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ---
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-ângelo-martins-paes-huene/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
   <a href="mailto:Daviangelohuene2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>

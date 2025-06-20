@@ -28,6 +28,7 @@
 ![Github](https://img.shields.io/badge/github-4B0082?style=for-the-badge&logo=github&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-4B0082?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-4B0082?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 ---

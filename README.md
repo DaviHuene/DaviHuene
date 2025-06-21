@@ -6,6 +6,21 @@
 
 <br><br>
 
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DaviHuene&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="GitHub Stats" height="180">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=8&theme=midnight-purple" alt="Top Langs" height="180">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Skills & Techs 
 
 ### 🧠 Linguagens & Frameworks
@@ -30,21 +45,6 @@
 ![Docker](https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-4B0082?style=for-the-badge&logo=Postman&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaviHuene&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="GitHub Stats" height="180">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=8&theme=midnight-purple" alt="Top Langs" height="180">
-    </td>
-  </tr>
-</table>
 
 ---
 

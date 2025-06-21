@@ -48,9 +48,10 @@
 
 
 ---
+<br>
 
 ## 🌐 Bora trocar uma ideia?
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-ângelo-martins-paes-huene/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
@@ -61,6 +62,7 @@
 </p>
 
 ---
+<br>
 
 ## 🚀 Sobre mim
 

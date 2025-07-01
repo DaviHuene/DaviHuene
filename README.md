@@ -76,3 +76,7 @@
 <p align="center">
   <img src="pixels-neon.gif" height="280" alt="Coding Animation">
 </p>
+
+```txt
+“Otimização prematura é a raiz de todo mal.” — Donald Knuth
+```

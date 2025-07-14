@@ -35,17 +35,16 @@
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-4B0082?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white)
-
+![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
 ### 🧰 Ferramentas & Tecnologias
 ![MongoDB](https://img.shields.io/badge/MongoDB-4B0082?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-4B0082?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-4B0082?style=for-the-badge&logo=github&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-4B0082?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-4B0082?style=for-the-badge&logo=Postman&logoColor=white)
-
+![eclipse](https://img.shields.io/badge/eclipse-4B0082?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 <br>

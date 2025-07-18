@@ -39,6 +39,8 @@
 ### 🧰 Ferramentas & Tecnologias
 ![MongoDB](https://img.shields.io/badge/MongoDB-4B0082?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLITE-4B0082?style=for-the-badge&logo=SQLITE&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/FIREBASE-4B0082?style=for-the-badge&logo=FIREBASE&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-4B0082?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-4B0082?style=for-the-badge&logo=github&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-4B0082?style=for-the-badge&logo=Oracle&logoColor=white)

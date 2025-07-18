@@ -33,7 +33,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-4B0082?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-4B0082?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-4B0082?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-4B0082?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
 ### 🧰 Ferramentas & Tecnologias

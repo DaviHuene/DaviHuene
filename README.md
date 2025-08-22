@@ -29,6 +29,9 @@
 
 <br>
 
+```txt
+“Otimização prematura é a raiz de todo mal.” — Donald Knuth
+```
 <details align="center">  
   <summary>
       <samp><b>More Info</b></samp>
@@ -91,3 +94,9 @@
 🧑‍💻 Desenvolvedor em construção (mas com muita vontade de aprender!).
 🎯 Viciado em melhorar, aprender, errar (faz parte 😅) e tentar de novo.
 🧩 Gosto de unir tecnologia com criatividade – sempre com um toque de humor!
+```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E00FF&height=120&section=footer"/>
+
+
+  
+</div>

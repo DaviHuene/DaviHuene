@@ -1,28 +1,61 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E00FF&height=120&section=header"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&weight=500&size=31&duration=1000&pause=1000&color=8E00FF&width=435&lines=Hello+Everyone+%F0%9F%91%8B;Eu+sou+Davi;%C3%89+um+prazer+te-lo(a)+por+aqui!" alt="Typing SVG" />
-</h1>
+<div align="center">
+  
+  <b>`SEJA BEM-VINDO`</b>
+</div>
+
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDaviHuene&s=21&c=8E00FF&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
+</div>
+      
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python%20Developer-8E00FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI%20Enthusiast-8E00FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit%20Creator-8E00FF?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Explorer-8E00FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20User-8E00FF?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 <br>
 
-## 📊 GitHub Stats
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8E00FF&width=900&size=22&center=true&lines=I'm+from+Brazil;Developer+in+construction;I+work+with+Python%2C+FastAPI%2C+SQL%2C+Streamlit;Always+learning+and+building!" alt="Typing SVG"/>
+</div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaviHuene&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="GitHub Stats" height="180">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=8&theme=midnight-purple" alt="Top Langs" height="180">
-    </td>
-  </tr>
-</table>
-
---- 
 <br>
 
+<details align="center">  
+  <summary>
+      <samp><b>More Info</b></samp>
+  </summary>
+  
+  <br>
 
-## 🛠️ Skills & Techs 
+<div align="center">
+  <img
+    height=165
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/?username=DaviHuene&show_icons=true&count_private=true&theme=midnight-purple"
+  />
+  <img
+    height=165
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=16&theme=midnight-purple"
+  />
+  <br><br>
+  <img
+    align="center"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviHuene&theme=midnight_purple"
+  />
+</div>
+
+<br>
+
 
 ### 🧠 Linguagens & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,20 +82,7 @@
 ![eclipse](https://img.shields.io/badge/eclipse-4B0082?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
-<br>
 
-## 🌐 Bora trocar uma ideia?
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/davi-ângelo-martins-paes-huene/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="mailto:Daviangelohuene2021@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 <br>
 
 ## 🚀 Sobre mim
@@ -71,13 +91,3 @@
 🧑‍💻 Desenvolvedor em construção (mas com muita vontade de aprender!).
 🎯 Viciado em melhorar, aprender, errar (faz parte 😅) e tentar de novo.
 🧩 Gosto de unir tecnologia com criatividade – sempre com um toque de humor!
-```
----
-
-<p align="center">
-  <img src="pixels-neon.gif" height="280" alt="Coding Animation">
-</p>
-
-```txt
-“Otimização prematura é a raiz de todo mal.” — Donald Knuth
-```

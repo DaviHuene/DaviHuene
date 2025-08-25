@@ -39,27 +39,6 @@
   
   <br>
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/?username=DaviHuene&show_icons=true&count_private=true&theme=midnight-purple"
-  />
-  <img
-    height=165
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=16&theme=midnight-purple"
-  />
-  <br><br>
-  <img
-    align="center"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviHuene&theme=midnight_purple"
-  />
-</div>
-
-<br>
-
-
 ### 🧠 Linguagens & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -87,6 +66,26 @@
 ---
 
 <br>
+<div align="center">
+  <img
+    height=165
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/?username=DaviHuene&show_icons=true&count_private=true&theme=midnight-purple"
+  />
+  <img
+    height=165
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=16&theme=midnight-purple"
+  />
+  <br><br>
+  <img
+    align="center"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviHuene&theme=midnight_purple"
+  />
+</div>
+
+<br>
+
 
 ## 🚀 Sobre mim
 
@@ -95,8 +94,9 @@
 🎯 Viciado em melhorar, aprender, errar (faz parte 😅) e tentar de novo.
 🧩 Gosto de unir tecnologia com criatividade – sempre com um toque de humor!
 ```
+</details>  
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E00FF&height=120&section=footer"/>
 
 
   
-</div>

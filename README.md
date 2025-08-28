@@ -45,6 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4B0082?style=for-the-badge&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-4B0082?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-4B0082?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=openjdk&logoColor=white)

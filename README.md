@@ -67,7 +67,7 @@
 ---
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <img
     height=165
     align="center"
@@ -77,7 +77,7 @@
     height=165
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHuene&layout=compact&langs_count=16&theme=midnight-purple"
-  />
+  /> -->
   <br><br>
   <img
     align="center"

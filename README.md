@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/Streamlit%20Creator-0077B6?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Explorer-0077B6?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20User-0077B6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Observability-0077B6?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00B4D8&width=900&size=22&center=true&lines=I'm+from+Brazil;Developer+in+construction;I+work+with+Python%2C+FastAPI%2C+SQL%2C+Streamlit;Always+learning+and+building!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00B4D8&width=900&size=22&center=true&lines=I'm+from+Brazil;Developer+in+construction;I+work+with+Python%2C+FastAPI%2C+SQL%2C+Streamlit;Building+observability+%26+infra+with+Grafana%2C+Prometheus%2C+Docker+Swarm;Always+learning+and+building!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -52,6 +53,8 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-00B4D8?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00B4D8?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B4D8?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-00B4D8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLITE-00B4D8?style=for-the-badge&logo=SQLITE&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/FIREBASE-00B4D8?style=for-the-badge&logo=FIREBASE&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-00B4D8?style=for-the-badge&logo=git&logoColor=white)
@@ -60,6 +63,20 @@
 ![Docker](https://img.shields.io/badge/Docker-00B4D8?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-00B4D8?style=for-the-badge&logo=Postman&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipse-00B4D8?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### 📊 Observabilidade, Infra & DevOps
+
+![Grafana](https://img.shields.io/badge/Grafana-00B4D8?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-00B4D8?style=for-the-badge&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-00B4D8?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-00B4D8?style=for-the-badge&logo=grafana&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-00B4D8?style=for-the-badge&logo=haproxy&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-00B4D8?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-00B4D8?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Load Balancer](https://img.shields.io/badge/Load%20Balancer-00B4D8?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-00B4D8?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-00B4D8?style=for-the-badge&logo=portainer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-00B4D8?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -91,6 +108,9 @@
 🧑‍💻 Desenvolvedor em construção (mas com muita vontade de aprender!).
 🎯 Viciado em melhorar, aprender, errar (faz parte 😅) e tentar de novo.
 🧩 Gosto de unir tecnologia com criatividade – sempre com um toque de humor!
+🛠️ Também mexo com stack de observabilidade e infraestrutura: Grafana, Prometheus,
+   Loki, Tempo, HAProxy, Nginx Proxy Manager, Cloudflare, Load Balancer,
+   Docker Swarm, Portainer e GitHub Actions para CI/CD.
 ```
 
 </details>  
